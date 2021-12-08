@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=PignuAnte&fontSize=90" alt="header" style = "width:100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hanyul Ryu&fontSize=90" alt="header" style = "width:100%"/>
 </p>
 <p align="center">🇰🇷 🇨🇭 🇯🇵 🇿🇦 🇫🇷 🇿🇼 🇿🇲 🏴‍☠️ </p>
 
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpignuante" alt="Hits">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanyul-ryu" alt="Hits">
 </p>
 
 <br/>
@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pignuante" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanyul-ryu" alt="Top Langs">
 </p>
 
 <p align="center">
