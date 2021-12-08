@@ -10,7 +10,7 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=syaoran215" alt="Solved.ac Profile">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pignuante&show_icons=true&theme=cobalt" alt="Pignu's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=pignuante&show_icons=true&theme=cobalt" alt="Hanyul Ryu's github stats">
 </p>
 
 <p align="center">
